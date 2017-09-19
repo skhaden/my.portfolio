@@ -1,2 +1,2 @@
-# my.portfolio
-This is my professional portfolio
+# Hiba Khaden's Portfolio
+This is my professional portfolio. It uses AWS and ReactJS.
